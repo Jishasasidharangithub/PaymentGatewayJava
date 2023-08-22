@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="access_code">access_code</string>
+    <string name="merchant_id">merchant_id</string>
+    <string name="currency">currency</string>
+    <string name="amount">amount</string>
+    <string name="redirect_url">redirect_url</string>
+    <string name="cancel_url">cancel_url</string>
+    <string name="rsa_url">rsa_url</string>
+    <string name="pay_button">pay_button</string>
+</resources>
